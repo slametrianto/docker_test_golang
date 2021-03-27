@@ -17,5 +17,7 @@ bikin file dockerfile
  
  hapus images
  docker rmi db26680a7319
-
+ 
+ test docker dilocal : 
+  http://192.168.100.15:8080/
 
